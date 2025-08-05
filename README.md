@@ -95,4 +95,4 @@ If you clone, fork, or study this project, please do so **legally and ethically*
 
 ## 👋 Final Notes
 
-This is a beginner’s project — not a weapon. I’m proud of how much I learned from building it, even though the code has a long way to go. If you’re learning too, feel free to dig into it — and always build with **purpose, ethics, and curiosity.**
+This is a beginner’s project — not a weapon. I’m proud of how much I learned from building it, even though the code has a long way to go. 
